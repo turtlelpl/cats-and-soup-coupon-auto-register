@@ -94,3 +94,35 @@ Nickname=gsRfvsQ5D0WWxoIzDmhPqA&CouponCode=WELOVECAT
   {"protocol":"source\/coupon_ok","result":8,"result_msg":"already coupon use. user_no:29534124, guid:gsRfvsQ5D0WWxoIzDmhPqA, coupon:WELOVECAT, coupon_id:44"}
 Nickname=gsRfvsQ5D0WWxoIzDmhPqA&CouponCode=HAPPYEAR
   {"protocol":"source\/coupon_ok","result":8,"result_msg":"already coupon use. user_no:29534124, guid:gsRfvsQ5D0WWxoIzDmhPqA, coupon:HAPPYEAR, coupon_id:45"}
+Nickname=GUldKVMZVESYrSrlXCBXww&CouponCode=2YRUPDATE
+  {"protocol":"source\/coupon_ok","result":6,"result_msg":"not found user. guid:GUldKVMZVESYrSrlXCBXww, coupon:2YRUPDATE"}
+Nickname=GUldKVMZVESYrSrlXCBXww&CouponCode=HAPPY2YEAR
+  {"protocol":"source\/coupon_ok","result":6,"result_msg":"not found user. guid:GUldKVMZVESYrSrlXCBXww, coupon:HAPPY2YEAR"}
+Nickname=GUldKVMZVESYrSrlXCBXww&CouponCode=THX2YEAR
+  {"protocol":"source\/coupon_ok","result":6,"result_msg":"not found user. guid:GUldKVMZVESYrSrlXCBXww, coupon:THX2YEAR"}
+Nickname=GUldKVMZVESYrSrlXCBXww&CouponCode=THX5000CAT
+  {"protocol":"source\/coupon_ok","result":6,"result_msg":"not found user. guid:GUldKVMZVESYrSrlXCBXww, coupon:THX5000CAT"}
+Nickname=GUldKVMZVESYrSrlXCBXww&CouponCode=10FRIDAY
+  {"protocol":"source\/coupon_ok","result":6,"result_msg":"not found user. guid:GUldKVMZVESYrSrlXCBXww, coupon:10FRIDAY"}
+Nickname=GUldKVMZVESYrSrlXCBXww&CouponCode=5000HAPPYDAY
+  {"protocol":"source\/coupon_ok","result":6,"result_msg":"not found user. guid:GUldKVMZVESYrSrlXCBXww, coupon:5000HAPPYDAY"}
+Nickname=GUldKVMZVESYrSrlXCBXww&CouponCode=BOO31CAT
+  {"protocol":"source\/coupon_ok","result":6,"result_msg":"not found user. guid:GUldKVMZVESYrSrlXCBXww, coupon:BOO31CAT"}
+Nickname=GUldKVMZVESYrSrlXCBXww&CouponCode=AUTUMNCAT
+  {"protocol":"source\/coupon_ok","result":6,"result_msg":"not found user. guid:GUldKVMZVESYrSrlXCBXww, coupon:AUTUMNCAT"}
+Nickname=GUldKVMZVESYrSrlXCBXww&CouponCode=2023GIVING
+  {"protocol":"source\/coupon_ok","result":6,"result_msg":"not found user. guid:GUldKVMZVESYrSrlXCBXww, coupon:2023GIVING"}
+Nickname=GUldKVMZVESYrSrlXCBXww&CouponCode=BLACKCATFRI
+  {"protocol":"source\/coupon_ok","result":6,"result_msg":"not found user. guid:GUldKVMZVESYrSrlXCBXww, coupon:BLACKCATFRI"}
+Nickname=GUldKVMZVESYrSrlXCBXww&CouponCode=DECCATLOVE
+  {"protocol":"source\/coupon_ok","result":6,"result_msg":"not found user. guid:GUldKVMZVESYrSrlXCBXww, coupon:DECCATLOVE"}
+Nickname=GUldKVMZVESYrSrlXCBXww&CouponCode=GIFTFORYOU
+  {"protocol":"source\/coupon_ok","result":6,"result_msg":"not found user. guid:GUldKVMZVESYrSrlXCBXww, coupon:GIFTFORYOU"}
+Nickname=GUldKVMZVESYrSrlXCBXww&CouponCode=2023XMASCAT
+  {"protocol":"source\/coupon_ok","result":6,"result_msg":"not found user. guid:GUldKVMZVESYrSrlXCBXww, coupon:2023XMASCAT"}
+Nickname=GUldKVMZVESYrSrlXCBXww&CouponCode=2024DRAGON
+  {"protocol":"source\/coupon_ok","result":6,"result_msg":"not found user. guid:GUldKVMZVESYrSrlXCBXww, coupon:2024DRAGON"}
+Nickname=GUldKVMZVESYrSrlXCBXww&CouponCode=WELOVECAT
+  {"protocol":"source\/coupon_ok","result":6,"result_msg":"not found user. guid:GUldKVMZVESYrSrlXCBXww, coupon:WELOVECAT"}
+Nickname=GUldKVMZVESYrSrlXCBXww&CouponCode=HAPPYEAR
+  {"protocol":"source\/coupon_ok","result":6,"result_msg":"not found user. guid:GUldKVMZVESYrSrlXCBXww, coupon:HAPPYEAR"}
